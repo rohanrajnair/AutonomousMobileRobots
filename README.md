@@ -5,7 +5,7 @@ MATLAB Simulations for CS 6501: Autonomous Mobile Robots
 - Follow Wall
 - 2D Potential Field
 - Kalman Filter
-  ![Kalman Filter Simulation](/KalmanAndParticleFilters/kalmansim.gif)
+  ![Kalman Filter Simulation](/KalmanAndParticleFilters/kalmansim.gif | width=100)
 - Particle Filter
   ![Particle Filter Simulation](/KalmanAndParticleFilters/particlesim.gif)
 - PID Tuning (Quadrotor + UGV)
